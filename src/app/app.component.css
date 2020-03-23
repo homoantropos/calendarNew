@@ -1,0 +1,40 @@
+div.mainBody{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: "Roboto Condensed";
+	border: solid maroon 1px;
+}
+
+.header{
+	background-color: maroon;
+  font-family: "Roboto Condensed";
+	color: gold;
+}
+
+.forCalendar{
+	float: left;
+	width: 50%;
+}
+
+.forFilter{
+	float: left;
+	width: 15%;
+}
+
+.forCreator{
+	float: right;
+	width: 35%;
+}
+
+.footer{
+	background-color: maroon;
+	color:gold;
+	text-align: right;
+	clear: left;
+	clear: right;
+}
+
+h1 {
+	text-align: center;
+  font-family: "Roboto Condensed";
+}
